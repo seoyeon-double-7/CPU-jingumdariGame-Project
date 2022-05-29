@@ -1,0 +1,5 @@
+﻿  jingumdari.c
+C:\Users\bsy05\source\repos\jingjumdari-project\jingjumdari-project\jingumdari.c(87,17): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsy05\source\repos\jingjumdari-project\jingjumdari-project\jingumdari.c(145,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\bsy05\source\repos\jingjumdari-project\jingjumdari-project\jingumdari.c(293,22): warning C4020: 'setColor': 실제 매개 변수가 너무 많습니다.
+  jingjumdari-project.vcxproj -> C:\Users\bsy05\source\repos\jingjumdari-project\x64\Debug\jingjumdari-project.exe

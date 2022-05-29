@@ -1,0 +1,8 @@
+﻿  jingumdari.c
+C:\Users\bsy05\source\repos\jingjumdari-project\jingjumdari-project\jingumdari.c(38,17): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  jingjumdari-project.vcxproj -> C:\Users\bsy05\source\repos\jingjumdari-project\x64\Release\jingjumdari-project.exe
